@@ -1,9 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqkrthdus605&count_bg=%23D5A1FF&title_bg=%23B9CCFF&icon=github.svg&icon_color=%23FFFEFE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## 👋 HI!!
+## 👋 Nice to meet you!!
   
-<br>
-
 <div align=left>
   <h2>🛠 Tech Stacks</h2>
   <h4>Tech stacks that I've used at least once!</h4>
