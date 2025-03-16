@@ -12,13 +12,14 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/styled%20components-DB7093?style=plastic&logo=styled%20components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=react&logoColor=black" alt="C++ Badge"/>
   <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Storybook-FF4785.svg?style=plastic&logo=Storybook&logoColor=yellow">
   <img src= "https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=plastic&logo=github&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge"/>
+  
   <br>
 </div>
 <br>
